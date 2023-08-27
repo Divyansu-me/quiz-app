@@ -1,6 +1,6 @@
 {
-    "name": "my_new_app",
-    "short_name": "my_new_app",
+    "name": "adv_basics",
+    "short_name": "adv_basics",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
